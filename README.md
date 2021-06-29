@@ -4,8 +4,8 @@ I'm Sandaru Kaveesha
 - 🔭 I’m currently working on eventseekout.com
 - 🌱 I’m currently learning Dart,Flutter
 - 👯 I’m looking to collaborate on Flutter projects
-- 📫 How to reach me: linkedin.com/in/sandaru-kaveesha
-
+- 📫 How to reach me: 
+<a href='linkedin.com/in/sandaru-kaveesha'>Sandaru Kaveesha</a>
 
 ## Skills  :
 
