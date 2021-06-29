@@ -5,7 +5,7 @@ I'm Sandaru Kaveesha
 - 🌱 I’m currently learning Dart,Flutter
 - 👯 I’m looking to collaborate on Flutter projects
 - 📫 How to reach me: 
-<a href='linkedin.com/in/sandaru-kaveesha'>Sandaru Kaveesha</a>
+<a href='www.linkedin.com/in/sandaru-kaveesha'>Sandaru Kaveesha</a>
 
 ## Skills  :
 
