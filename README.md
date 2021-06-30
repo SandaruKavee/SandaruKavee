@@ -27,6 +27,12 @@ I'm Sandaru Kaveesha
 <code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/flutter.svg"></code>
 </p>
 
+***Databases*  :**
+<p>
+<code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/Firebase_Logo_Standard_Lockup.svg"></code>
+<code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/mysql-ar21.svg"></code>
+</p>
+
 ***Tools*  :**
 <p>
 
