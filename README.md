@@ -6,7 +6,7 @@ I'm Sandaru Kaveesha
   <img alt="Profile" align="center" src="https://github-readme-stats.vercel.app/api?username=SandaruKavee&count_private=true&show_icons=true&custom_title=My%20Github%20Statistics&hide=stars,issues" />
 </a>
 <a href="https://github.com/Avishka-Rathnavibushana">
-  <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishka-Rathnavibushana&langs_count=9&layout=compact" />
+  <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandaruKaveea&langs_count=9&layout=compact" />
 </a>
 
 <br />
