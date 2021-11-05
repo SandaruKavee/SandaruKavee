@@ -7,6 +7,8 @@ I'm Sandaru Kaveesha
 </a>
 <a href="https://github.com/SandaruKavee">
   <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandaruKavee&langs_count=9&layout=compact" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameSandaruKavee&layout=compact)](https://github.com/SandaruKavee/github-readme-stats)
+
 </a>
 
 <br />
