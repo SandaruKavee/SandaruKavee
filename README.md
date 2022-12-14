@@ -60,5 +60,7 @@ I'm Sandaru Kaveesha
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
 <code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/visual-studio.svg"></code>
 <code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/remix.png"></code> 
+<code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/ij.png"></code> 
+
 
 </p>
