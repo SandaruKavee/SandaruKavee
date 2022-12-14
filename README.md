@@ -34,6 +34,9 @@ I'm Sandaru Kaveesha
 <code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/java-ar21.svg"></code>
 <code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/PHP-logo.svg"></code>
 <code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/HTML5_logo_and_wordmark.svg"></code>
+  
+<code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/solidity-logo-vector.png"></code>
+ <code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/Apache_Maven_logo.svg.png"></code>
 </p>
 
 ***libraries*  :**
@@ -56,5 +59,6 @@ I'm Sandaru Kaveesha
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
 <code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/visual-studio.svg"></code>
+<code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/remix.png"></code> 
 
 </p>
