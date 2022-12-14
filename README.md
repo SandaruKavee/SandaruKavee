@@ -27,14 +27,11 @@ I'm Sandaru Kaveesha
 ***Languages*  :**
 <p> 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
-
 <code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/dart.png"></code>
 <code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/javascript.svg"></code>
-
 <code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/java-ar21.svg"></code>
 <code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/PHP-logo.svg"></code>
 <code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/HTML5_logo_and_wordmark.svg"></code>
-  
 <code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/solidity-logo-vector.png"></code>
  <code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/Apache_Maven_logo.svg.png"></code>
 </p>
@@ -49,8 +46,7 @@ I'm Sandaru Kaveesha
 <p>
 <code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/Firebase_Logo_Standard_Lockup.svg"></code>
 <code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/mysql-ar21.svg"></code>
-  <code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/mongodb-ar21.svg"></code>
-  
+<code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/mongodb-ar21.svg"></code>
 </p>
 
 ***Tools*  :**
